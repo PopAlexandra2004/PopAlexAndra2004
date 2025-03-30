@@ -5,7 +5,8 @@ I am a 3rd year Computer Science student at the Technical University of Cluj-Nap
 ## 🎯 Current Projects
 
 - I'm currently developing both personal and academic projects, always looking for a new challenge.
-- Some of my favorite projects include a Cache Memory Simulator, an AI-powered dog matching app (Furry Friends), and a photorealistic OpenGL scene.
+- Working on a full-stack **Motorcycle Store Management** system using **React** and **Spring Boot**, focused on realistic order management, validation, and dynamic UI updates.
+- Some of my favorite past projects include a Cache Memory Simulator, an AI-powered dog matching app (Furry Friends), and a photorealistic OpenGL scene.
 
 ## 🌱 Skills & Interests
 
