@@ -1,6 +1,6 @@
 # Hello there! I am Alexandra Pop
 
-I am a 3rd year Computer Science student at the Technical University of Cluj-Napoca, passionate about building creative and impactful tech projects. I love working on everything from system-level tools and embedded systems to photorealistic graphics and AI. Always curious, always learning.
+I am a 4th year Computer Science student at the Technical University of Cluj-Napoca, passionate about building creative and impactful tech projects. I love working on everything from system-level tools and embedded systems to photorealistic graphics and AI. Always curious, always learning.
 
 ## 🎯 Current Projects
 
