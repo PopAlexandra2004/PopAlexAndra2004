@@ -1,22 +1,21 @@
 # Hello there! I am Alexandra Pop
 
-I am a 4th year Computer Science student at the Technical University of Cluj-Napoca, passionate about building creative and impactful tech projects. I love working on everything from system-level tools and embedded systems to photorealistic graphics and AI. Always curious, always learning.
+I am a Computer Science graduate from the Technical University of Cluj-Napoca (UTCN), currently pursuing a Master's degree in Information Technology in Economy (TIE). I am passionate about building creative and impactful tech projects, working across everything from full-stack architectures and AI integration to system tools and interactive 3D environments. Always curious, always learning.
 
-## 🎯 Current Projects
+## 🎯 Featured Projects
 
-- I'm currently developing both personal and academic projects, always looking for a new challenge.
-- Working on a full-stack **Motorcycle Store Management** system using **React** and **Spring Boot**, focused on realistic order management, validation, and dynamic UI updates.
-- Some of my favorite past projects include a Cache Memory Simulator, an AI-powered dog matching app (Furry Friends), and a photorealistic OpenGL scene.
+- **[StoryTeller](https://github.com/PopAlexandra2004/StoryTeller):** Autonomous 3D educational storytelling and LMS framework built as a license thesis project, combining a Unity C# frontend with a Python (WSL) AI backend, Google Gemini API, and gTTS voice synthesis.
+- **[FurryFriends](https://github.com/PopAlexandra2004/FurryFriends_React):** Cross-platform mobile social app built with React Native and Expo Go, featuring multi-role authentication, swipe-based matching, real-time chat, and local data persistence via AsyncStorage.
+- **Motorcycle Store Management:** Full-stack e-commerce and inventory platform built with React, Spring Boot, and PostgreSQL, featuring JWT authentication and role-based access control.
+- **Energy Management System:** Distributed microservices architecture coordinated via a Traefik API Gateway, Java Spring Boot, RabbitMQ, and Docker Swarm.
 
-## 🌱 Skills & Interests
+## 🌱 Skills & Technologies
 
-- Python, C++, JavaScript, React
-- Embedded systems & Arduino
-- OpenGL graphics & simulation
-- Artificial Intelligence & Image Processing
-- UI/UX and intuitive app design
+- **Languages:** Python, Java, C#, JavaScript, SQL, C/C++
+- **Frameworks & Engines:** Unity 3D, React, React Native, Spring Framework, .NET, Expo
+- **Tools & Systems:** Git, Docker & Docker Swarm, RabbitMQ, PostgreSQL, WSL, REST APIs, WebSockets
 
 ## 🤝 Collaboration
 
-- I'm always open to collaborating on exciting projects and improving my skills.
+- I'm always open to collaborating on exciting projects and expanding my technical expertise.
 - If you have any ideas or would like to connect, feel free to reach out!
