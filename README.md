@@ -4,8 +4,8 @@ I am a Computer Science graduate from the Technical University of Cluj-Napoca (U
 
 ## 🎯 Featured Projects
 
-- **[StoryTeller]:** Autonomous 3D educational storytelling and LMS framework built as a license thesis project, combining a Unity C# frontend with a Python (WSL) AI backend, Google Gemini API, and gTTS voice synthesis.
-- **[FurryFriends]** Cross-platform mobile social app built with React Native and Expo Go, featuring multi-role authentication, swipe-based matching, real-time chat, and local data persistence via AsyncStorage.
+- **StoryTeller:** Autonomous 3D educational storytelling and LMS framework built as a license thesis project, combining a Unity C# frontend with a Python (WSL) AI backend, Google Gemini API, and gTTS voice synthesis.
+- **FurryFriends:** Cross-platform mobile social app built with React Native and Expo Go, featuring multi-role authentication, swipe-based matching, real-time chat, and local data persistence via AsyncStorage.
 - **Motorcycle Store Management:** Full-stack e-commerce and inventory platform built with React, Spring Boot, and PostgreSQL, featuring JWT authentication and role-based access control.
 - **Energy Management System:** Distributed microservices architecture coordinated via a Traefik API Gateway, Java Spring Boot, RabbitMQ, and Docker Swarm.
 
